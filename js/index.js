@@ -8,5 +8,4 @@ function changeColor(){
 		d1.className="purple";
 	}
 
-
 	}

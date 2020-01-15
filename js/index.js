@@ -1,6 +1,12 @@
 function changeColor(){
 
-	var d1 = document.getElementByld("div2020");
+	var d1 = document.getElementById("div1");
 
-	d1.className="blue";
-}
+	if (d1.className == "purple"){
+		d1.className="blue";
+	} else {
+		d1.className="purple";
+	}
+
+
+	}
